@@ -1,2 +1,2 @@
 # Poker
-A 2-hand poker game program in JAVA 
+A single player 2-hand poker game vs computer in JAVA 
